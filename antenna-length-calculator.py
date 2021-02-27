@@ -28,7 +28,7 @@ while True:
         L = round(142.6464 / mhz , 4)
         E = round(L / 2 , 4)
 
-        print("Length of One Piece of Antenna: {} meter\nTotal Length of Antenna: {} meter".format(L, E))
+        print("Length of One Piece of Antenna: {} meter\nTotal Length of Antenna: {} meter".format(E, L))
 
     else:
 
